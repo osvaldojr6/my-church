@@ -12,7 +12,7 @@ export function Localizacao() {
           className="h-72 w-full rounded-2xl border-0"
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
-          src="https://www.google.com/maps?q=Av.%20Paulista%201000%20S%C3%A3o%20Paulo&output=embed"
+          src="https://www.google.com/maps?q=Av.%20Principal%201000%20S%C3%A3o%20Paulo&output=embed"
         />
       </div>
     </section>
