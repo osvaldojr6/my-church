@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export function Hero() {
   return (
-    <section className="bg-[url('https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1500&q=80')] bg-cover bg-center">
+    <section className="bg-gradient-to-r from-zinc-900 via-zinc-800 to-primary">
       <div className="bg-black/50">
         <div className="section-container py-28 text-white sm:py-36">
           <p className="text-sm uppercase tracking-[0.2em]">Bem-vindo</p>
